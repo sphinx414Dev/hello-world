@@ -1,2 +1,2 @@
-PROJECT(test)
-ADD_EXECUTABLE(test test.cpp)
+PROJECT(helloworld)
+ADD_EXECUTABLE(helloworld main.cpp)

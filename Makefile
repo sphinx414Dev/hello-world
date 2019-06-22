@@ -1,4 +1,4 @@
-TARGET = test.out
+TARGET = helloworld.out
 OBJECTS = $(patsubst %.cpp, %.o, $(wildcard *.cpp))
 HEADERS = $(wildcard *.h)
 
