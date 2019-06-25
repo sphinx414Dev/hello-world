@@ -4,7 +4,7 @@
 
 void display()
 {
-	std::cout << "Hello world\n";
+	std::cout << "Hello world";
 }
 
 #endif
