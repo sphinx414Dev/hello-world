@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
 project(helloworld)
-include_directories(header)
+include_directories(src)
 file(GLOB SOURCES "src/*.cpp")
 add_executable(helloworld ${SOURCES})
